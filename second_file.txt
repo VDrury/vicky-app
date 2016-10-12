@@ -1,3 +1,5 @@
 this is second file
 
 this text was written ob branch version3
+
+THIS text was written on MASTER.
